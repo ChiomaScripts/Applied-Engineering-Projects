@@ -13,12 +13,14 @@ For a consolidated view of my work across all engineering disciplines, visit my 
 
 ---
 
+
 ## 🧭 Project Navigation
 
 | Project Collection | Explore |
 | :--- | :--- |
-| 🏢 **Professional & Applied Engineering** | [View Projects](#professional--applied-engineering-projects) |
-| 🐍 **Python Development, Analytics & Learning** | [View Projects](#python-development-analytics--learning-projects) |
+| 🏢 **Professional & Applied Engineering** | [View Projects](#professional-projects) |
+| 🐍 **Python Development, Analytics & Learning** | [View Projects](#python-projects) |
+
 
 ---
 
