@@ -1,167 +1,152 @@
-# Chioma Queeneth Okpala
 
-### Selected Engineering Projects | Python · Data · AI · Observability
+# Professional & Applied Engineering | Python, AI & Data Projects
 
-Welcome to my collection of engineering projects, bringing together professional experience, academic research, independent development and hands-on technical exploration.
+### Selected Projects in Production Observability, Applied AI, Application Development & Python
 
-My work spans Python development, production observability, data analytics, artificial intelligence and application engineering. This repository showcases selected projects from different stages of my technical journey, from foundational programming exercises to more complex, real-world engineering solutions.
+A collection of professional engineering implementations, applied research, data analytics projects and Python development work.
 
-Alongside these projects, I maintain a dedicated **[DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio)**, which serves as the central home for my ongoing work in cloud infrastructure, containerisation, application deployment, automation and reliability engineering.
+This repository brings together non-DevOps projects from different stages of my engineering journey, ranging from business-critical production solutions and applied machine learning to independent applications, automation scripts and foundational programming exercises.
 
-Together, these repositories reflect both the breadth of my technical background and the direction in which I'm continuing to develop.
+Public projects link directly to their source code or supporting documentation. Confidential professional implementations are presented through high-level descriptions of their technical scope, objectives and outcomes.
+
+For a consolidated view of my work across all engineering disciplines, visit my **[Complete Engineering Portfolio](https://github.com/ChiomaScripts/engineering-portfolio)**.
 
 ---
 
-## 🚀 DevOps Engineering Portfolio
+## 🧭 Project Navigation
 
-### [Explore My DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio)
-
-My dedicated DevOps portfolio documents hands-on engineering implementations across Linux administration, cloud infrastructure, application deployment, Docker, container networking, artifact management and automation.
-
-Each project captures the implementation process, technical decisions, architecture, troubleshooting experiences and execution evidence, demonstrating not just what was built, but how and why.
-
-**Featured implementations:**
-
-- [Dev5 — Cloud Infrastructure & Java Application Deployment](https://github.com/ChiomaScripts/Dev5-cloud-iaas)
-- [Dev6 — Nexus Artifact Repository Management](https://github.com/ChiomaScripts/Dev6-nexus-artifact-repository)
-- [Dev7a — Docker for Local Development with Python, FastAPI & MongoDB](https://github.com/ChiomaScripts/Dev7a-docker-python)
-
-The portfolio continues to evolve as I progress through further DevOps technologies and engineering practices.
+| Project Collection | Explore |
+| :--- | :--- |
+| 🏢 **Professional & Applied Engineering** | [View Projects](#professional--applied-engineering-projects) |
+| 🐍 **Python Development, Analytics & Learning** | [View Projects](#python-development-analytics--learning-projects) |
 
 ---
 
 ## 🏢 Professional & Applied Engineering Projects
 
-The following projects demonstrate my experience in production observability, applied artificial intelligence, data engineering and application development.
+This collection brings together engineering solutions developed through professional experience, academic research and applied technical projects.
 
-Some involve confidential or proprietary environments. Their technical scope and outcomes are summarised without publishing restricted source code or implementation details.
+The work spans production observability, operational automation, application development, artificial intelligence and machine learning, with an emphasis on practical problem-solving and measurable outcomes.
 
-### 🔍 Splunk Alerting & Observability Framework *(Private)*
+Some professional implementations are confidential. Their summaries describe the engineering objectives, technologies and outcomes without exposing proprietary source code or sensitive operational information.
 
-Production real-time event correlation and alerting framework built for live trading operations.
+### 01. Splunk Alerting & Observability Framework
 
-Designed to detect settlement failures, feed dropouts and sequencing anomalies across 30+ simultaneous live fixtures, supporting proactive investigation and operational risk reduction.
+**Professional Engineering | Private Implementation**
 
-Associated alerting solutions help prevent **£250K+ in monthly trading losses**.
+Designed and developed monitoring and alerting workflows supporting business-critical, real-time trading operations.
 
-**Stack:** Splunk · SPL · Python · Prometheus · Grafana · Loki
+The solution uses Splunk Search Processing Language (SPL), lookup enrichment and event correlation to identify operational anomalies, including settlement failures, feed dropouts and event-sequencing issues.
 
-*Project overview available for discussion. Source code and proprietary implementation details are not publicly shared.*
+The framework supports proactive investigation and operational risk reduction across 30+ simultaneous live fixtures.
 
-### 🧬 Synthetic Data Generation — Financial Transactions *(Private)*
+**Engineering Impact:** Alerting solutions contributing to the prevention of £250K+ in potential monthly trading losses.
 
-Developed a GAN-based synthetic data generation system achieving **98% statistical alignment** with real financial transaction data, directly supporting product launch.
+**Technologies:** Splunk · SPL · Python · Prometheus · Grafana · Loki
 
-This work was recognised with the **Dean's Prize for Innovation & Impact** at the University of Bradford.
-
-**Stack:** Python · CTGAN · GANs · Scikit-Learn · Pandas
-
-*Project overview available for discussion. Source code and proprietary implementation details are not publicly shared.*
-
-### 🌍 FSE Compliance Portal *(Private)*
-
-Developed a full-stack food safety compliance platform for a public health authority.
-
-The platform replaced paper-based inspection records with a structured, data-driven system supporting operational workflows and regulatory record management.
-
-The solution was deployed for active daily use.
-
-**Stack:** FastAPI · Supabase · PostgreSQL · Streamlit · AWS · Render
-
-*Project overview available for discussion. Source code and proprietary implementation details are not publicly shared.*
+*Project overview available for professional discussion. Proprietary implementation details and source code are not publicly shared.*
 
 ---
 
-## 📊 Public Data Analytics & Machine Learning Projects
+### 02. Synthetic Financial Data Generation Using GANs
 
-These projects demonstrate practical experience in data exploration, analysis, visualisation, natural language processing and application development.
+**Applied AI Research | Private Implementation**
 
-### 📊 [Emotion Annotation of Customer Reviews](./Emotion%20Annotation%20of%20Customer%20Reviews/README.md)
+Developed and evaluated a generative AI approach for creating synthetic financial transaction data while preserving important statistical characteristics of the original dataset.
 
-NLP-based sentiment analysis across more than 20,000 restaurant reviews using Support Vector Machine (SVM) classification, NLTK and Python.
+The implementation explored generative adversarial networks and synthetic data evaluation for applied financial use cases, directly supporting product launch activities.
 
-**Stack:** Python · NLTK · Scikit-Learn · Pandas · Matplotlib
+**Research Outcome:** Achieved approximately 98% statistical alignment with the original financial data.
 
-### 🏠 [England & Wales Housing Trends Analysis](https://github.com/ChiomaScripts/England-Wales-2021-Housing-Trends/blob/main/README.md)
+**Recognition:** Dean's Prize for Innovation & Impact, University of Bradford.
 
-Exploratory data analysis and interactive visualisation of national housing tenure statistics.
+**Technologies:** Python · CTGAN · Generative Adversarial Networks · Scikit-Learn · Pandas
 
-The project examines housing data through statistical exploration and visual representations to communicate trends and patterns.
-
-**Stack:** Python · Pandas · Plotly · Exploratory Data Analysis
-
-### 📱 [Instagram Analytics Dashboard](https://github.com/ChiomaScripts/Instagram_Analytics_Dashboard/blob/main/README.md)
-
-Interactive dashboard for exploring social media engagement analytics.
-
-Demonstrates data processing, interactive visualisation and dashboard development using Python.
-
-**Stack:** Python · Streamlit · Pandas · Plotly
+*Project overview available for professional discussion. Proprietary source code and implementation details are not publicly shared.*
 
 ---
 
-## 🛠️ Python Scripting & Learning Projects
+### 03. FSE Compliance Portal
 
-A collection of smaller Python scripts, programming exercises and experiments from my earlier learning journey.
+**Application Engineering | Private Implementation**
 
-These projects document the foundations of my programming development, from file handling and regular expressions to automation, API integration and exploratory data analysis.
+Developed a full-stack food safety compliance platform for a public health authority, replacing paper-based inspection records with a structured digital workflow.
+
+The solution supports the capture, organisation and management of inspection information, enabling more consistent recordkeeping, operational data access and regulatory record management.
+
+The platform was deployed for active daily use.
+
+**Technologies:** Python · FastAPI · Supabase · PostgreSQL · Streamlit · AWS · Render
+
+*Project overview available for professional discussion. Proprietary source code and implementation details are not publicly shared.*
+
+---
+
+### 04. [Emotion Annotation of Customer Reviews](./Emotion%20Annotation%20of%20Customer%20Reviews/)
+
+**Applied Machine Learning | Natural Language Processing**
+
+Developed an NLP-based analysis of more than 20,000 restaurant customer reviews, applying text processing and machine learning techniques to investigate customer sentiment and emotion-related patterns.
+
+The project demonstrates practical data preparation, natural language processing, Support Vector Machine (SVM) classification and analytical interpretation.
+
+**Technologies:** Python · NLTK · Scikit-Learn · Support Vector Machines · Pandas · Matplotlib
+
+---
+
+## 🐍 Python Development, Analytics & Learning Projects
+
+This collection includes independent development projects, analytical applications, Python automation scripts and foundational programming exercises.
+
+Together, these projects demonstrate practical experience in data manipulation, application development, visualisation, scripting, API integration and problem-solving.
+
+### Data Analytics & Application Projects
+
+#### 01. [England & Wales Housing Trends Analysis](https://github.com/ChiomaScripts/England-Wales-2021-Housing-Trends)
+
+Exploratory analysis and interactive visualisation of housing tenure statistics across England and Wales.
+
+The project applies data processing and visual analytics to explore patterns in national housing data.
+
+**Technologies:** Python · Pandas · Plotly · Exploratory Data Analysis
+
+---
+
+#### 02. [Instagram Analytics Dashboard](https://github.com/ChiomaScripts/Instagram_Analytics_Dashboard)
+
+Developed an interactive analytics dashboard for exploring social media engagement data and visualising performance metrics.
+
+The project demonstrates data processing, interactive application development and analytical reporting.
+
+**Technologies:** Python · Streamlit · Pandas · Plotly
+
+---
+
+#### 03. Other Python Development & Learning Projects
+
+These earlier projects are retained as part of my development journey, reflecting the progression from foundational Python programming to more complex engineering applications.
 
 | Project | Description |
-|---|---|
-| [Product Sales Automation](./Product%20Sales%20Automation/README.md) | Automates reading and processing sales transaction data from a text file. |
-| [Automated Files & Folders Organiser](./Automated%20Files%20&%20Folders%20Organiser/README.md) | Python script for file organisation, directory management and temporary file cleanup. |
-| [Contact Info Extractor](./contact%20Info%20Extractor/README.md) | Uses regular expressions to extract phone numbers, email addresses and URLs from text files. |
-| [Password Checker](./password%20checker/README.md) | Checks passwords against known breach databases through API integration. |
-| [Word Guesser Game](./word_guesser_game/README.md) | A simple word-guessing game developed using Google Colab. |
-| [Impromptu Data Analysis](./impromptu_analysis/README.md) | Exploratory data analysis exercises and practical Python experimentation. |
-
-These foundational projects complement the more extensive engineering implementations documented in my DevOps portfolio and demonstrate my progression towards increasingly complex technical challenges.
+| :--- | :--- |
+| **[Product Sales Automation](./Product%20Sales%20Automation/)** | Automates reading and processing sales transaction data from text files. |
+| **[Automated Files & Folders Organiser](./Automated%20Files%20%26%20Folders%20Organiser/)** | Organises files and directories and supports temporary file cleanup. |
+| **[Contact Info Extractor](./contact%20Info%20Extractor/)** | Uses regular expressions to extract emails, phone numbers and URLs from text. |
+| **[Password Checker](./password%20checker/)** | Uses an external API to check passwords against known breach records. |
+| **[Word Guesser Game](./word_guesser_game/)** | A foundational Python programming exercise implementing a word-guessing game. |
+| **[Impromptu Data Analysis](./impromptu_analysis/)** | Exploratory data analysis exercises involving Python and data manipulation. |
 
 ---
 
-## 👩🏽‍💻 About Me
+## 🔗 Portfolio & Professional Links
 
-I'm an **Observability & Application Support Engineer at Flutter UK&I**, with professional experience in real-time monitoring, event correlation, production troubleshooting, operational automation and application reliability.
-
-My engineering background combines Python development, applied AI, data analytics and production observability.
-
-I'm continuing to build on this foundation through hands-on DevOps engineering, cloud infrastructure, containerisation, automation and reliability-focused development.
-
-### Technical Experience
-
-- 🔍 **Observability & Reliability:** Splunk, SPL, Prometheus, Grafana, Loki, PromQL and LogQL.
-- 🐍 **Programming & Automation:** Python, SQL, REST APIs and FastAPI.
-- 🤖 **AI & Machine Learning:** RAG pipelines, AWS Bedrock, GANs, CTGAN and Scikit-Learn.
-- 📊 **Data & Analytics:** Pandas, PostgreSQL, Plotly, Streamlit and exploratory data analysis.
-- ☁️ **Cloud & Infrastructure:** AWS, Docker, Linux and cloud-hosted application development.
-
-### Certifications & Academic Achievements
-
-- **Splunk Core Certified**
-- **PCAP Certified Python Developer**
-- **MSc Applied AI & Data Analytics — Distinction**
-- **Dean's Prize for Innovation & Impact — University of Bradford**
-
-### Continuous Professional Development
-
-I'm actively developing my capabilities through structured DevOps training, independent technical projects and preparation for the **OpenTelemetry Certified Associate (OTCA)** certification.
-
-My focus is on strengthening the connection between application development, observability, infrastructure engineering and reliable software delivery.
+| Destination | Purpose |
+| :--- | :--- |
+| 🌐 [Live Engineering Portfolio](https://chiomascripts.github.io/engineering-portfolio/) | Visual portfolio website |
+| 📂 [Complete Engineering Portfolio](https://github.com/ChiomaScripts/engineering-portfolio) | Master catalogue of engineering projects |
+| ☁️ [DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio) | Dedicated DevOps implementation collection |
+| 💻 [GitHub Profile](https://github.com/ChiomaScripts) | Professional background, skills and achievements |
+| 🔗 [LinkedIn](https://linkedin.com/in/chioma-okpala) | Professional profile |
 
 ---
 
-## 📂 Explore More of My Work
-
-🚀 **[DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio)** — My dedicated portfolio of hands-on cloud infrastructure, containerisation, deployment, automation and DevOps engineering projects.
-
-💻 **[All GitHub Repositories](https://github.com/ChiomaScripts?tab=repositories)** — Explore my public repositories, experiments and ongoing technical development.
-
----
-
-## 🤝 Connect
-
-**LinkedIn:** [linkedin.com/in/chioma-okpala](https://linkedin.com/in/chioma-okpala)
-
----
-
-*Built through curiosity, continuous learning and practical engineering experience.*
+*Selected engineering work spanning professional applications, applied research, analytics and Python development.*
