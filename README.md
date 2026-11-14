@@ -9,7 +9,7 @@ This repository brings together non-DevOps projects from different stages of my 
 
 Public projects link directly to their source code or supporting documentation. Confidential professional implementations are presented through high-level descriptions of their technical scope, objectives and outcomes.
 
-For a consolidated view of my work across all engineering disciplines, visit my **[Complete Engineering Portfolio](https://github.com/ChiomaScripts/engineering-portfolio)**.
+For a consolidated view of my work across all engineering disciplines, visit my **[Complete Engineering Portfolio](https://github.com/ChiomaScripts/Engineering-Portfolio)**.
 
 ---
 
@@ -146,7 +146,7 @@ These earlier projects are retained as part of my development journey, reflectin
 | Destination | Purpose |
 | :--- | :--- |
 | 🌐 [Live Engineering Portfolio](https://chiomascripts.github.io/engineering-portfolio/) | Visual portfolio website |
-| 📂 [Complete Engineering Portfolio](https://github.com/ChiomaScripts/engineering-portfolio) | Master catalogue of engineering projects |
+| 📂 [Complete Engineering Portfolio](https://github.com/ChiomaScripts/Engineering-Portfolio) | Master catalogue of engineering projects |
 | ☁️ [DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio) | Dedicated DevOps implementation collection |
 | 💻 [GitHub Profile](https://github.com/ChiomaScripts) | Professional background, skills and achievements |
 | 🔗 [LinkedIn](https://linkedin.com/in/chioma-okpala) | Professional profile |
