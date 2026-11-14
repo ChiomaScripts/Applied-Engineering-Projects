@@ -13,7 +13,6 @@ For a consolidated view of my work across all engineering disciplines, visit my 
 
 ---
 
-
 ## 🧭 Project Navigation
 
 | Project Collection | Explore |
@@ -21,8 +20,9 @@ For a consolidated view of my work across all engineering disciplines, visit my 
 | 🏢 **Professional & Applied Engineering** | [View Projects](#professional-projects) |
 | 🐍 **Python Development, Analytics & Learning** | [View Projects](#python-projects) |
 
-
 ---
+
+<a id="professional-projects"></a>
 
 ## 🏢 Professional & Applied Engineering Projects
 
@@ -95,6 +95,8 @@ The project demonstrates practical data preparation, natural language processing
 **Technologies:** Python · NLTK · Scikit-Learn · Support Vector Machines · Pandas · Matplotlib
 
 ---
+
+<a id="python-projects"></a>
 
 ## 🐍 Python Development, Analytics & Learning Projects
 
