@@ -145,7 +145,7 @@ These earlier projects are retained as part of my development journey, reflectin
 
 | Destination | Purpose |
 | :--- | :--- |
-| 🌐 [Live Engineering Portfolio](https://chiomascripts.github.io/engineering-portfolio/) | Visual portfolio website |
+| 🌐 [Live Engineering Portfolio](https://chiomascripts.github.io/Engineering-Portfolio/) | Visual portfolio website |
 | 📂 [Complete Engineering Portfolio](https://github.com/ChiomaScripts/Engineering-Portfolio) | Master catalogue of engineering projects |
 | ☁️ [DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio) | Dedicated DevOps implementation collection |
 | 💻 [GitHub Profile](https://github.com/ChiomaScripts) | Professional background, skills and achievements |
