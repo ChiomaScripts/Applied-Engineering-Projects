@@ -1,24 +1,24 @@
-# Software, Data & AI Projects
+# Chioma Queeneth Okpala
 
-### Chioma Queeneth Okpala
+### Selected Engineering Projects | Python · Data · AI · Observability
 
-**Python Development | Data Analytics | Artificial Intelligence | Application Engineering**
+Welcome to my collection of engineering projects, bringing together professional experience, academic research, independent development and hands-on technical exploration.
 
-Welcome to my collection of software development, data analytics, machine learning and application engineering projects.
+My work spans Python development, production observability, data analytics, artificial intelligence and application engineering. This repository showcases selected projects from different stages of my technical journey, from foundational programming exercises to more complex, real-world engineering solutions.
 
-This repository brings together selected academic work, independent technical projects, applied engineering experience and smaller programming exercises from different stages of my development.
+Alongside these projects, I maintain a dedicated **[DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio)**, which serves as the central home for my ongoing work in cloud infrastructure, containerisation, application deployment, automation and reliability engineering.
 
-My background spans Python development, data-driven applications, AI/ML and production observability. These projects reflect the technical foundations and problem-solving experience that continue to inform my broader engineering journey.
+Together, these repositories reflect both the breadth of my technical background and the direction in which I'm continuing to develop.
 
 ---
 
-## 🚀 My Flagship Engineering Portfolio
+## 🚀 DevOps Engineering Portfolio
 
-### [DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio)
+### [Explore My DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio)
 
-My primary engineering portfolio documents hands-on implementations across Linux administration, cloud infrastructure, application deployment, Docker, container networking, artifact management and automation.
+My dedicated DevOps portfolio documents hands-on engineering implementations across Linux administration, cloud infrastructure, application deployment, Docker, container networking, artifact management and automation.
 
-It includes detailed technical walkthroughs, architecture diagrams, troubleshooting experiences and execution evidence.
+Each project captures the implementation process, technical decisions, architecture, troubleshooting experiences and execution evidence, demonstrating not just what was built, but how and why.
 
 **Featured implementations:**
 
@@ -26,15 +26,15 @@ It includes detailed technical walkthroughs, architecture diagrams, troubleshoot
 - [Dev6 — Nexus Artifact Repository Management](https://github.com/ChiomaScripts/Dev6-nexus-artifact-repository)
 - [Dev7a — Docker for Local Development with Python, FastAPI & MongoDB](https://github.com/ChiomaScripts/Dev7a-docker-python)
 
-**[Explore the DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio)**
+The portfolio continues to evolve as I progress through further DevOps technologies and engineering practices.
 
 ---
 
 ## 🏢 Professional & Applied Engineering Projects
 
-The following projects demonstrate experience in production observability, applied AI and application development.
+The following projects demonstrate my experience in production observability, applied artificial intelligence, data engineering and application development.
 
-Some involve confidential or proprietary environments. Their technical scope and outcomes are summarised here without publishing restricted source code or implementation details.
+Some involve confidential or proprietary environments. Their technical scope and outcomes are summarised without publishing restricted source code or implementation details.
 
 ### 🔍 Splunk Alerting & Observability Framework *(Private)*
 
@@ -42,7 +42,7 @@ Production real-time event correlation and alerting framework built for live tra
 
 Designed to detect settlement failures, feed dropouts and sequencing anomalies across 30+ simultaneous live fixtures, supporting proactive investigation and operational risk reduction.
 
-Associated alerting solutions help prevent £250K+ in monthly trading losses.
+Associated alerting solutions help prevent **£250K+ in monthly trading losses**.
 
 **Stack:** Splunk · SPL · Python · Prometheus · Grafana · Loki
 
@@ -50,7 +50,7 @@ Associated alerting solutions help prevent £250K+ in monthly trading losses.
 
 ### 🧬 Synthetic Data Generation — Financial Transactions *(Private)*
 
-Developed a GAN-based synthetic data generation system achieving 98% statistical alignment with real financial transaction data, directly supporting product launch.
+Developed a GAN-based synthetic data generation system achieving **98% statistical alignment** with real financial transaction data, directly supporting product launch.
 
 This work was recognised with the **Dean's Prize for Innovation & Impact** at the University of Bradford.
 
@@ -104,7 +104,7 @@ Demonstrates data processing, interactive visualisation and dashboard developmen
 
 A collection of smaller Python scripts, programming exercises and experiments from my earlier learning journey.
 
-I have retained these projects because they document the foundations of my programming development, from working with files and regular expressions to automation, API integration and exploratory analysis.
+These projects document the foundations of my programming development, from file handling and regular expressions to automation, API integration and exploratory data analysis.
 
 | Project | Description |
 |---|---|
@@ -115,17 +115,17 @@ I have retained these projects because they document the foundations of my progr
 | [Word Guesser Game](./word_guesser_game/README.md) | A simple word-guessing game developed using Google Colab. |
 | [Impromptu Data Analysis](./impromptu_analysis/README.md) | Exploratory data analysis exercises and practical Python experimentation. |
 
-These projects represent earlier stages of my development and complement the more extensive engineering implementations documented in my DevOps portfolio.
+These foundational projects complement the more extensive engineering implementations documented in my DevOps portfolio and demonstrate my progression towards increasingly complex technical challenges.
 
 ---
 
 ## 👩🏽‍💻 About Me
 
-I'm an **Observability & Application Support Engineer** with production experience in real-time alerting, monitoring, application troubleshooting, operational automation and data-driven engineering.
+I'm an **Observability & Application Support Engineer at Flutter UK&I**, with professional experience in real-time monitoring, event correlation, production troubleshooting, operational automation and application reliability.
 
-My technical background combines Python development, applied AI, data analytics and production observability.
+My engineering background combines Python development, applied AI, data analytics and production observability.
 
-I'm continuing to expand this foundation through hands-on DevOps engineering, cloud infrastructure, containerisation and reliability-focused development.
+I'm continuing to build on this foundation through hands-on DevOps engineering, cloud infrastructure, containerisation, automation and reliability-focused development.
 
 ### Technical Experience
 
@@ -142,11 +142,17 @@ I'm continuing to expand this foundation through hands-on DevOps engineering, cl
 - **MSc Applied AI & Data Analytics — Distinction**
 - **Dean's Prize for Innovation & Impact — University of Bradford**
 
+### Continuous Professional Development
+
+I'm actively developing my capabilities through structured DevOps training, independent technical projects and preparation for the **OpenTelemetry Certified Associate (OTCA)** certification.
+
+My focus is on strengthening the connection between application development, observability, infrastructure engineering and reliable software delivery.
+
 ---
 
 ## 📂 Explore More of My Work
 
-🚀 **[DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio)** — My flagship engineering portfolio, documenting practical infrastructure, containerisation, deployment, automation and DevOps projects.
+🚀 **[DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio)** — My dedicated portfolio of hands-on cloud infrastructure, containerisation, deployment, automation and DevOps engineering projects.
 
 💻 **[All GitHub Repositories](https://github.com/ChiomaScripts?tab=repositories)** — Explore my public repositories, experiments and ongoing technical development.
 
